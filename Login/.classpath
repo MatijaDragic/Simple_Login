@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/matij/AppData/Roaming/.workspaces/Java-Workspace/Libraries/jiconfont-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/matij/AppData/Roaming/.workspaces/Java-Workspace/Libraries/jiconfont-font_awesome-4.7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/matij/AppData/Roaming/.workspaces/Java-Workspace/Libraries/jiconfont-swing-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/matij/AppData/Roaming/.workspaces/Java-Workspace/Libraries/Modern_Libs/gradient-icon-font.jar"/>
+	<classpathentry kind="lib" path="C:/Users/matij/AppData/Roaming/.workspaces/Java-Workspace/Libraries/Modern_Libs/jsvg-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/matij/AppData/Roaming/.workspaces/Java-Workspace/Libraries/Modern_Libs/flatlaf-extras-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/matij/AppData/Roaming/.workspaces/Java-Workspace/Libraries/Modern_Libs/flatlaf-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/matij/AppData/Roaming/.workspaces/Java-Workspace/Libraries/Modern_Libs/TimingFramework-0.55.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
